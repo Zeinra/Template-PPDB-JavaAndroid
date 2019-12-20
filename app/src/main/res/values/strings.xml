@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PPDB Sekolah</string>
+    <string name="radio_laki">Laki - laki</string>
+    <string name="radio_perempuan">Perempuan</string>
+    <string name="oneboarding">Sebelum memasukkan data periksa kembali koneksi internet anda, pastikan dalam kondisi stabil demi kelancaran proses pengisian formulir</string>
+    <string name="no1">1.</string>
+    <string name="no2">2.</string>
+    <string name="no3">3.</string>
+    <string name="no4">4.</string>
+    <string name="no5">5.</string>
+    <string name="no6">6.</string>
+    <string name="document1">Foto rapot kelas 4 semester 1 &amp; 2\n<p>(Wajib legalisir kepala sekolah)</p></string>
+    <string name="document2">Foto rapot kelas 5 semester 1 &amp; 2\n<p>(Wajib legalisir kepala sekolah)</p></string>
+    <string name="document3">Foto akta kelahiran</string>
+    <string name="document4">Foto calon murid</string>
+    <string name="document5">Foto kartu keluarga</string>
+    <string name="document6">Foto bukti transfer BANK DKI 53112000011 A.n SMP Islam Al Azhar 19 Sebesar Rp.400,000,00</string>
+
+    <!--Akses Data Wilayah-->
+    <string name="txt_slct_prov">Pilih Provinsi</string>
+    <string name="txt_slct_kab">Pilih Kabupaten</string>
+    <string name="txt_slct_kec">Pilih Kecamatan</string>
+    <string name="txt_slct_kel">Pilih Kelurahan</string>
+    <string name="txt_please_slct">Silakan Pilih</string>
+</resources>
